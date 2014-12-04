@@ -1,0 +1,4 @@
+x=input ()
+if (int(x)==7):
+	print ("Awesome this is my lucky number")
+print(x)
