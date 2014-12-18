@@ -1,0 +1,3 @@
+print ("meet-Hp-Probook-430-01")
+print ("ifconfiga0:1d:48:ad:37:46")
+print ("spice")
